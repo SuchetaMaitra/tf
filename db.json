@@ -4,14 +4,14 @@
         "id":54,
         "name":"3PARFED-TEST01",
         "descriptors":{"os":"OE Linux UEK (5.x, 6.x)"},
-        "FCPaths":
+        "fcpaths":
         [
-            {"wwn":"100028924AAFF37C", "portPos":{"node":0,"slot":2,"cardPort":4},"hostSpeed":0},
+            {"wwn":"100028924AAFF37C", "portPos":{"node":0,"slot":2,"cardport":4},"hostspeed":0},
             {"wwn":"100028924AAFF37D","hostSpeed":0}
         ],
-        "iSCSIPaths":[],
+        "iscsiaths":[],
         "persona":"GENERIC_ALUA",
-        "initiatorChapEnabled":false,
-        "targetChapEnabled":false
+        "initiatorchapenabled":false,
+        "targetehapenabled":false
     }
     }
